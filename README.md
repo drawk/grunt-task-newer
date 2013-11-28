@@ -41,7 +41,7 @@ module.exports = function(grunt) {
         }
     });
 
-    grunt.registerTask('default', ['task_newer:uglify']);
+    grunt.registerTask('default', ['newer:uglify']);
 }
 ```
 
