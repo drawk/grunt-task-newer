@@ -1,0 +1,31 @@
+{
+  "name": "grunt-task-newer",
+  "description": "Run grunt task only if source files are newer.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/drawk/grunt-b2pweb-newer",
+  "author": {
+    "name": "Gilles G."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drawk/grunt-task-newer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drawk/grunt-task-newer/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/drawk/grunt-task-newer/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin", "task", "newer"
+  ]
+}
