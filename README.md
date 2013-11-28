@@ -17,7 +17,7 @@ Once the plugin has been installed, it may be enabled inside your Gruntfile with
 grunt.loadNpmTasks('grunt-task-newer');
 ```
 
-## The "task_newer" task
+## The "newer" task
 
 ### Usage Example
 ```js
